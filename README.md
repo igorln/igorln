@@ -11,11 +11,7 @@
 
 - 📫 How to reach me **igorln96@gmail.com**
 
-- 🚀 I’m currently studying at <a
-    href="https://www.betrybe.com/" 
-    alt="Trybe"
-  >Trybe
-  </a>  to become a Full-Stack Developer by September 2021!</p>
+- 🚀 I’m currently studying at [Trybe](https://www.betrybe.com/) to become a Full-Stack Developer by September 2021!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
