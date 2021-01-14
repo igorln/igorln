@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorln&label=Profile%20views&color=0e75b6&style=flat" alt="igorln" /> </p>
 
-- 🔭 I’m currently working on [Shopping Cart](https://github.com/igorln/shopping-cart)
+- 🚀 I’m currently studying at [Trybe](https://www.betrybe.com/) to become a Full-Stack Developer by September 2021!
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://igorln.github.io/portfolio/](https://igorln.github.io/portfolio/)
 
 - 📫 How to reach me **igorln96@gmail.com**
-
-- 🚀 I’m currently studying at [Trybe](https://www.betrybe.com/) to become a Full-Stack Developer by September 2021!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
