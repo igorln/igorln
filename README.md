@@ -49,6 +49,10 @@ Hi there, I'm **Igor Leandro Nascimento**, I'm from São Paulo, Brazil, I'm stud
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorln&layout=compact&theme=graywhite&title_color=268bd2" alt="igorln" />
 </p>
 
+<br />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorln&label=Profile%20views&color=0e75b6&style=flat" alt="igorln" /> </p>
+
+<br />
 
 ⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
