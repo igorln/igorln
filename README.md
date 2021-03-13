@@ -1,5 +1,7 @@
 ### Hello 👋, I'm [Igor](https://igorln.github.io/portfolio/)!
 
+<img align="right" src="https://komarev.com/ghpvc/?username=igorln&label=Profile%20views&color=0e75b6&style=flat" alt="igorln" />
+
 <a href="https://github.com/igorln" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
@@ -9,6 +11,7 @@
 <a href="https://www.linkedin.com/in/igor-nascimento/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
+
 <br />
 <br />
 
@@ -48,11 +51,5 @@ Hi there, I'm **Igor Leandro Nascimento**, I'm from São Paulo, Brazil, I'm stud
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorln&layout=compact&theme=graywhite&title_color=268bd2" alt="igorln" />
 </p>
-
-<br />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorln&label=Profile%20views&color=0e75b6&style=flat" alt="igorln" /> </p>
-
-<br />
 
 ⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
