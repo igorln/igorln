@@ -21,10 +21,10 @@ Hi there, I'm **Igor Leandro Nascimento**, I'm from São Paulo, Brazil, I'm stud
 
 **Talking about Personal Stuffs:**
 
+- 💼 I'm working as Front-end developer at [Amaro](https://amaro.com/br/pt/);
 - 👨🏽‍💻 I’m currently a student at [Trybe](https://www.betrybe.com/);
-- 🌱 I’m currently learning React.js; 
+- 🌱 I’m currently learning Node.js; 
 - 🤔 My hobbies are dance, table tennis and parkour;
-- 💼 I'm pursuing knowledge to evolve in my developer career.;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via igorln96@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/13aGqil6pYODLPK49rP39WNmOGspKW0tR/view?usp=sharing) to get more info.
@@ -40,7 +40,12 @@ Hi there, I'm **Igor Leandro Nascimento**, I'm from São Paulo, Brazil, I'm stud
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+<p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
 </p>
 
 <p>
