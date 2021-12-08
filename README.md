@@ -15,15 +15,14 @@
 <br />
 <br />
 
-Hi there, I'm **Igor Leandro Nascimento**, I'm from São Paulo, Brazil, I'm studying to become a **Junior Full-Stack Developer**.
+Hi there, I'm **Igor Leandro Nascimento**, I'm from São Paulo, Brazil.
 
   <img align="right" alt="Octocat" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615493852165.png" width="400px"/>
 
 **Talking about Personal Stuffs:**
 
 - 💼 I'm working as Front-end developer at [Amaro](https://amaro.com/br/pt/);
-- 👨🏽‍💻 I’m currently a student at [Trybe](https://www.betrybe.com/);
-- 🌱 I’m currently learning Node.js; 
+- 🌱 I’m currently learning Ether.js; 
 - 🤔 My hobbies are dance, table tennis and parkour;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via igorln96@gmail.com to reach me.
